@@ -1,6 +1,8 @@
 name: How do I...?
 description: Ask for help if you're stuck
 title: "[Howto]: "
+labels:
+  - question
 body:
   - type: markdown
     attributes:
